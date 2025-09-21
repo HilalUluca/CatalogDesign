@@ -8,7 +8,7 @@ Tasarım tamamen bana aittir ve işverenin izniyle referans amacıyla bu GitHub 
 Katalogun hem **Türkçe** hem de **İngilizce** versiyonu hazırlanmıştır.  
 
 **EN:**  
-This catalog was designed with Canva as a professional project for [employer / you can just write "the employer"].  
+This catalog was designed with Canva as a professional project. 
 The design is entirely created by me and shared on my GitHub account with the employer's permission as a reference.  
 The catalog has been prepared in both **Turkish** and **English** versions.  
 
